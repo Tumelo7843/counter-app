@@ -1,0 +1,44 @@
+.counter{
+
+font-size: 5rem;
+justify-self: center;
+margin-top: 8rem;
+background-color: blue;
+border-radius: 10% ;
+padding-right: 4rem;
+}
+
+
+button{
+    font-size: 5rem;
+    margin-left: 7rem;
+    color: rgb(44, 44, 105);
+}
+h1{
+    font-size: 8rem;
+    border-radius: 30%;
+    background-color: rgb(55, 211, 211);
+    padding-left: 8rem;
+    margin-right: 6rem;
+    margin-left: 6rem;
+    
+}
+body{
+
+    background-color: rgb(151, 149, 153);
+}
+.btn{
+    margin-left: 5rem;
+}
+.reset{
+    margin-left: 8rem;
+    color: red;
+}
+.plus{
+background-color: red;
+width: 4rem;
+}
+.minus{
+    background-color: lawngreen;
+    width: 4rem;
+}
